@@ -67,8 +67,18 @@ I'm a full-stack software engineer building Discord bots, web applications, back
 
   There is still a lot left to build, and I’m just getting started.
 
+  <p>
+   <a href="https://soon.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Website-5865F2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+   </a>
+    <a href="https://www.youtube.com/@Shaoline4X" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="https://www.instagram.com/tbdx_x" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+     <a href="https://discord.gg/VdmgNduYWt" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Server" />
+</a>
+  </p>
 </details>
-
-[website]: https://soon.com
-[youtube]: http://www.youtube.com/@Shaoline4X
-[instagram]: https://www.instagram.com/tbdx_x
