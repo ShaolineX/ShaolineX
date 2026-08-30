@@ -2,7 +2,8 @@
 
 **`Full Stack developer`**
 
-I'm a full-stack software engineer building Discord bots, web applications, backends, frontends, and developer tools, and content creator at [Shaoline4X][youtube].
+I'm a full-stack software engineer building Discord bots, web applications, backends, frontends, and developer tools, and content creator at [ Shaoline4X ](https://youtube.com/@shaoline4x )  on YouTube 
+.
 
    <p align="left">
       <a href="https://www.youtube.com/@Shaoline4X?sub_confirmation=1">
