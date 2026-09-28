@@ -97,9 +97,6 @@ A bot built to run an entire server — **moderation, automation, and always-on 
 Full-stack products from database to interface. Clean APIs underneath,
 considered frontends on top.
 
-  
-
-
 <sub>React · TypeScript · Node.js · MongoDB</sub>
 
 [**› Repositories**](https://github.com/shaolinex?tab=repositories )
