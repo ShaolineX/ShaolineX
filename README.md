@@ -2,13 +2,15 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Shaoline, Software Engineer" />
 
-<br />
+<br /><br />
 
 ![Software Engineer](https://custom-icon-badges.demolab.com/badge/Software_Engineer-0E0E10?style=for-the-badge&labelColor=0E0E10)
 &nbsp;
 ![Full Stack](https://custom-icon-badges.demolab.com/badge/Full_Stack-0E0E10?style=for-the-badge&labelColor=0E0E10)
 &nbsp;
 ![Java and Linux](https://custom-icon-badges.demolab.com/badge/Java_·_Linux-0E0E10?style=for-the-badge&labelColor=0E0E10)
+&nbsp;
+[![Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?label=Subscribers&logo=video&logoColor=F2EEE6&style=for-the-badge&labelColor=0E0E10&color=0E0E10)](https://www.youtube.com/@Shaoline4X?sub_confirmation=1)
 
 </div>
 
@@ -25,17 +27,55 @@ or breaking the work down on **[Shaoline4X](https://youtube.com/@shaoline4x)**.
 
 <br />
 
+**Approach**
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**From the ground up**
+
+<sub>I would rather understand every layer than glue together what I don't.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**Reliable by default**
+
+<sub>Practical, useful, and still running next month. Clever comes second.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**Beneath the surface**
+
+<sub>Linux, backends, and the machinery that makes modern software work.</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
 **Stack**
 
+<sub>LANGUAGES</sub><br />
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-0E0E10?style=for-the-badge&logo=openjdk&logoColor=F2EEE6)
 ![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-0E0E10?style=for-the-badge&logo=typescript&logoColor=F2EEE6)
 ![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-0E0E10?style=for-the-badge&logo=javascript&logoColor=F2EEE6)
 ![Python](https://custom-icon-badges.demolab.com/badge/Python-0E0E10?style=for-the-badge&logo=python&logoColor=F2EEE6)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-0E0E10?style=for-the-badge&logo=csharp&logoColor=F2EEE6)
 ![Go](https://custom-icon-badges.demolab.com/badge/Go-0E0E10?style=for-the-badge&logo=go&logoColor=F2EEE6)
+![Bash](https://custom-icon-badges.demolab.com/badge/Bash-0E0E10?style=for-the-badge&logo=gnubash&logoColor=F2EEE6)
+
+<sub>FRAMEWORKS</sub><br />
 ![React](https://custom-icon-badges.demolab.com/badge/React-0E0E10?style=for-the-badge&logo=react&logoColor=F2EEE6)
 ![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-0E0E10?style=for-the-badge&logo=nodedotjs&logoColor=F2EEE6)
 ![Discord.js](https://custom-icon-badges.demolab.com/badge/Discord.js-0E0E10?style=for-the-badge&logo=discord&logoColor=F2EEE6)
+![HTML](https://custom-icon-badges.demolab.com/badge/HTML-0E0E10?style=for-the-badge&logo=html5&logoColor=F2EEE6)
+![CSS](https://custom-icon-badges.demolab.com/badge/CSS-0E0E10?style=for-the-badge&logo=css3&logoColor=F2EEE6)
+
+<sub>INFRASTRUCTURE</sub><br />
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-0E0E10?style=for-the-badge&logo=postgresql&logoColor=F2EEE6)
 ![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-0E0E10?style=for-the-badge&logo=mongodb&logoColor=F2EEE6)
 ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-0E0E10?style=for-the-badge&logo=docker&logoColor=F2EEE6)
@@ -149,6 +189,8 @@ Everything else, and how it is put together, lives in the repositories.
 [![Discord](https://custom-icon-badges.demolab.com/badge/Discord-0E0E10?style=for-the-badge&logo=discord&logoColor=F2EEE6)](https://discord.gg/VdmgNduYWt)
 &nbsp;
 [![Instagram](https://custom-icon-badges.demolab.com/badge/tbdx__x-0E0E10?style=for-the-badge&logo=instagram&logoColor=F2EEE6)](https://www.instagram.com/tbdx_x)
+&nbsp;
+[![GitHub](https://custom-icon-badges.demolab.com/badge/shaolinex-0E0E10?style=for-the-badge&logo=github&logoColor=F2EEE6)](https://github.com/shaolinex)
 
 <br /><br />
 
