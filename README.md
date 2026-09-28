@@ -161,20 +161,6 @@ Everything else, and how it is put together, lives in the repositories.
 
 <br />
 
-**Activity**
-
-<img width="100%" src="https://streak-stats.demolab.com?user=shaolinex&hide_border=true&background=303030&ring=E8E7E4&fire=E8E7E4&currStreakNum=E8E7E4&sideNums=E8E7E4&currStreakLabel=E8E7E4&sideLabels=A9A8A5&dates=777674&stroke=777674&card_width=1200" alt="GitHub streak" />
-
-<br />
-
-**Latest uploads**
-
-<sub>First upload in progress. Subscribe to catch it when it lands.</sub>
-
-[![Subscribe](https://custom-icon-badges.demolab.com/badge/Subscribe-Shaoline4X-E8E7E4?style=for-the-badge&logo=video&logoColor=E8E7E4&labelColor=303030)](https://www.youtube.com/@Shaoline4X?sub_confirmation=1)
-
-<br />
-
 <div align="center">
 
 [![Shaoline4X](https://custom-icon-badges.demolab.com/badge/Shaoline4X-E8E7E4?style=for-the-badge&logo=youtube&logoColor=E8E7E4&labelColor=303030)](https://youtube.com/@shaoline4x)
