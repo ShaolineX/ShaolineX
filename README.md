@@ -83,9 +83,10 @@ Most nights, I’m at the desk building for **<a href="https://discord.gg/VdmgNd
 
 ### ShaolineX Manager
 
-A bot built to run an entire server — **moderation, automation, and always-on systems** designed to stay reliable under real-world server load.
+A bot built to run an entire server — **moderation, automation, and always-on systems**
+designed to stay reliable under real-world server load.
 
-<sub>JavaScript · Discord.js · Node.js · PostgreSQL</sub>
+<sub>JavaScript · Discord.js · Node.js</sub>
 
 [**› Repositories**](https://github.com/shaolinex?tab=repositories )
 
