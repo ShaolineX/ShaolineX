@@ -101,7 +101,6 @@ considered frontends on top.
 <sub>React · TypeScript · Node.js · MongoDB</sub>
 
 [**› Repositories**](https://github.com/shaolinex?tab=repositories )
-
 </td>
 </tr>
 
