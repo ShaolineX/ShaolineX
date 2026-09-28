@@ -13,7 +13,7 @@
     </radialGradient>
 
     <linearGradient id="fadeX" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0.42" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.44" stop-color="#fff" stop-opacity="0"/>
       <stop offset="0.70" stop-color="#fff" stop-opacity="1"/>
     </linearGradient>
     <mask id="land"><rect width="1280" height="400" fill="url(#fadeX)"/></mask>
@@ -31,6 +31,7 @@
 
     <style>
       .serif { font-family: Georgia, 'Times New Roman', serif; }
+      .sans  { font-family: Futura, 'Century Gothic', 'Avenir Next', Montserrat, Helvetica, Arial, sans-serif; }
       .mono  { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
       .f  { opacity: 0; animation: fade 1.6s ease-out forwards; }
       .d1 { animation-delay: .1s; }  .d2 { animation-delay: .4s; }
@@ -52,6 +53,13 @@
       <g class="f d1">
         <circle cx="1050" cy="150" r="150" fill="url(#sunGlow)"/>
         <circle cx="1050" cy="150" r="62" fill="#B8322A"/>
+      </g>
+
+      <!-- Birds -->
+      <g class="f d5" fill="none" stroke="#6B6660" stroke-width="1.6" stroke-linecap="round">
+        <path d="M952,96 q6,-6 12,0 q6,-6 12,0"/>
+        <path d="M982,78 q4,-4 8,0 q4,-4 8,0"/>
+        <path d="M932,118 q3,-3 6,0 q3,-3 6,0"/>
       </g>
 
       <path class="f d2" fill="#28272C"
@@ -76,23 +84,33 @@
     <!-- Grain -->
     <rect width="1280" height="400" filter="url(#grain)" opacity="0.06"/>
 
-    <!-- Type -->
-    <text class="mono f d1" x="80" y="100" font-size="13" letter-spacing="5" fill="#A8A29A">SOFTWARE ENGINEER  /  FULL STACK  /  CREATOR</text>
+    <!-- Top label -->
+    <text class="mono f d1" x="80" y="96" font-size="13" letter-spacing="5" fill="#A8A29A">FULL STACK  /  CREATOR</text>
 
-    <text class="serif f d2" x="74" y="222" font-size="124" letter-spacing="-2" fill="#F2EEE6">Shaoline</text>
+    <!-- Name (fixed width so the subtitle lines up exactly) -->
+    <text class="serif f d2" x="76" y="218" font-size="124" textLength="472" lengthAdjust="spacingAndGlyphs" fill="#F2EEE6">Shaoline</text>
 
-    <g class="f d3" transform="translate(578 160) rotate(-4)">
+    <!-- Seal -->
+    <g class="f d3" transform="translate(574 150) rotate(-4)">
       <rect width="56" height="56" rx="5" fill="#B8322A"/>
       <rect x="5" y="5" width="46" height="46" rx="3" fill="none" stroke="#F2EEE6" stroke-opacity="0.6" stroke-width="1.5"/>
       <text class="serif" x="28" y="40" font-size="34" text-anchor="middle" fill="#F2EEE6">S</text>
     </g>
 
-    <rect class="f d3" x="80" y="252" width="56" height="3" fill="#B8322A"/>
+    <!-- Subtitle lockup: SOFTWARE ——— ENGINEER -->
+    <g class="f d3">
+      <text class="sans" x="80" y="262" font-size="14" letter-spacing="7" fill="#E8E7E4">SOFTWARE</text>
+      <line x1="224" y1="257" x2="404" y2="257" stroke="#777674" stroke-width="1"/>
+      <path d="M314,253 L318,257 L314,261 L310,257 Z" fill="#B8322A"/>
+      <text class="sans" x="555" y="262" font-size="14" letter-spacing="7" text-anchor="end" fill="#E8E7E4">ENGINEER</text>
+    </g>
 
-    <text class="mono f d4" x="80" y="300" font-size="15" letter-spacing="0.5" fill="#A8A29A">Discord bots  ·  Web applications  ·  Backends  ·  Developer tools</text>
+    <!-- Tagline -->
+    <text class="mono f d4" x="80" y="316" font-size="14" letter-spacing="0.5" fill="#A8A29A">Discord bots  ·  Web applications  ·  Backends  ·  Developer tools</text>
 
-    <text class="mono f d5" x="80" y="356" font-size="11" letter-spacing="3" fill="#6B6660">JAVA  ·  LINUX  ·  DISCORD.JS  ·  REACT</text>
-    <text class="mono f d5" x="1200" y="356" font-size="11" letter-spacing="3" text-anchor="end" fill="#8A857E">YOUTUBE.COM/@SHAOLINE4X</text>
+    <!-- Bottom meta -->
+    <text class="mono f d5" x="80" y="362" font-size="11" letter-spacing="3" fill="#6B6660">JAVA  ·  LINUX  ·  DISCORD.JS  ·  REACT</text>
+    <text class="mono f d5" x="1200" y="362" font-size="11" letter-spacing="3" text-anchor="end" fill="#8A857E">YOUTUBE.COM/@SHAOLINE4X</text>
   </g>
 
   <rect x="0.5" y="0.5" width="1279" height="399" rx="18" fill="none" stroke="#2A2A2E"/>
