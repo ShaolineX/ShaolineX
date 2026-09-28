@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="ShaolineX, Software Engineer" />
+<img src="./assets/assets/banner.svg" width="100%" alt="ShaolineX, Software Engineer" />
 
 <br /><br />
 
