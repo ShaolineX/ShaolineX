@@ -27,36 +27,6 @@ or breaking the work down on **[Shaoline4X](https://youtube.com/@shaoline4x)**.
 
 <br />
 
-**Approach**
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**From the ground up**
-
-<sub>I would rather understand every layer than glue together what I don't.</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Reliable by default**
-
-<sub>Practical, useful, and still running next month. Clever comes second.</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Beneath the surface**
-
-<sub>Linux, backends, and the machinery that makes modern software work.</sub>
-
-</td>
-</tr>
-</table>
-
-<br />
-
 **Stack**
 
 <sub>LANGUAGES</sub><br />
@@ -171,7 +141,7 @@ Everything else, and how it is put together, lives in the repositories.
 
 **Activity**
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaolinex&bg_color=0E0E10&color=A8A29A&line=B8322A&point=F2EEE6&area=true&area_color=B8322A&hide_border=true&hide_title=true&radius=12" alt="Contribution activity" />
+<img width="100%" src="https://streak-stats.demolab.com?user=shaolinex&hide_border=true&background=0E0E10&ring=B8322A&fire=B8322A&currStreakNum=F2EEE6&sideNums=F2EEE6&currStreakLabel=F2EEE6&sideLabels=A8A29A&dates=6B6660&stroke=2A2A2E&card_width=1200" alt="GitHub streak" />
 
 <br />
 
