@@ -32,13 +32,13 @@
     <style>
       .sans { font-family: Futura, 'Century Gothic', 'Avenir Next', Montserrat, Helvetica, Arial, sans-serif; }
       .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
-      .f  { opacity: 0; animation: fade 1.6s ease-out forwards; }
+      .f  { animation: fade 1.6s ease-out both; }
       .d1 { animation-delay: .1s; }  .d2 { animation-delay: .4s; }
       .d3 { animation-delay: .7s; }  .d4 { animation-delay: 1s; }
       .d5 { animation-delay: 1.3s; }
       .drift  { animation: drift 14s ease-in-out infinite alternate; }
       .drift2 { animation: drift 18s ease-in-out infinite alternate-reverse; }
-      @keyframes fade  { to { opacity: 1; } }
+      @keyframes fade  { from { opacity: 0; } to { opacity: 1; } }
       @keyframes drift { from { transform: translateX(-50px); } to { transform: translateX(50px); } }
     </style>
   </defs>
@@ -90,70 +90,64 @@
       <path d="M70,99 L71.5,104.5 L77,106 L71.5,107.5 L70,113 L68.5,107.5 L63,106 L68.5,104.5 Z"/>
     </g>
 
-    <!-- Wordmark: blackletter SHAOLINEX, centered -->
+    <!-- Wordmark: blackletter SHAOLINE, centered -->
     <g class="f d2" fill="#F2EEE6">
       <!-- S -->
-      <path d="M348,109 L370,95 L400,101 L400,113 L370,107 L362,115 Z"/>
-      <path d="M340,111 L356,105 L356,157 L340,163 Z"/>
-      <path d="M340,155 L356,151 L400,181 L384,187 Z"/>
-      <path d="M384,183 L400,177 L400,233 L384,239 Z"/>
-      <path d="M392,231 L370,245 L340,239 L340,227 L370,233 L378,225 Z"/>
+      <path d="M386,109 L408,95 L438,101 L438,113 L408,107 L400,115 Z"/>
+      <path d="M378,111 L394,105 L394,157 L378,163 Z"/>
+      <path d="M378,155 L394,151 L438,181 L422,187 Z"/>
+      <path d="M422,183 L438,177 L438,233 L422,239 Z"/>
+      <path d="M430,231 L408,245 L378,239 L378,227 L408,233 L416,225 Z"/>
 
       <!-- H -->
-      <path d="M414,103 L430,95 L430,237 L414,245 Z"/>
-      <path d="M458,103 L474,95 L474,237 L458,245 Z"/>
-      <path d="M430,168 L458,160 L458,172 L430,180 Z"/>
-      <rect x="421" y="76" width="2" height="24"/>
-      <path d="M422,65 L423.5,70.5 L429,72 L423.5,73.5 L422,79 L420.5,73.5 L415,72 L420.5,70.5 Z"/>
+      <path d="M452,103 L468,95 L468,237 L452,245 Z"/>
+      <path d="M496,103 L512,95 L512,237 L496,245 Z"/>
+      <path d="M468,168 L496,160 L496,172 L468,180 Z"/>
+      <rect x="459" y="76" width="2" height="24"/>
+      <path d="M460,65 L461.5,70.5 L467,72 L461.5,73.5 L460,79 L458.5,73.5 L453,72 L458.5,70.5 Z"/>
 
       <!-- A -->
-      <path d="M488,137 L504,129 L504,237 L488,245 Z"/>
-      <path d="M532,103 L548,95 L548,237 L532,245 Z"/>
-      <path d="M488,131 L540,95 L548,95 L548,109 L496,145 L488,145 Z"/>
-      <path d="M504,178 L532,170 L532,182 L504,190 Z"/>
+      <path d="M526,137 L542,129 L542,237 L526,245 Z"/>
+      <path d="M570,103 L586,95 L586,237 L570,245 Z"/>
+      <path d="M526,131 L578,95 L586,95 L586,109 L534,145 L526,145 Z"/>
+      <path d="M542,178 L570,170 L570,182 L542,190 Z"/>
 
       <!-- O -->
-      <path d="M562,115 L592,95 L622,115 L606,123 L592,113 L578,123 Z"/>
-      <path d="M562,115 L578,115 L578,225 L562,225 Z"/>
-      <path d="M606,115 L622,115 L622,225 L606,225 Z"/>
-      <path d="M562,225 L578,217 L592,227 L606,217 L622,225 L592,245 Z"/>
-      <rect x="591" y="245" width="2" height="16"/>
-      <path d="M592,260 L593.3,264.7 L598,266 L593.3,267.3 L592,272 L590.7,267.3 L586,266 L590.7,264.7 Z"/>
+      <path d="M600,115 L630,95 L660,115 L644,123 L630,113 L616,123 Z"/>
+      <path d="M600,115 L616,115 L616,225 L600,225 Z"/>
+      <path d="M644,115 L660,115 L660,225 L644,225 Z"/>
+      <path d="M600,225 L616,217 L630,227 L644,217 L660,225 L630,245 Z"/>
+      <rect x="629" y="245" width="2" height="16"/>
+      <path d="M630,260 L631.3,264.7 L636,266 L631.3,267.3 L630,272 L628.7,267.3 L624,266 L628.7,264.7 Z"/>
 
       <!-- L -->
-      <path d="M636,103 L652,95 L652,237 L636,245 Z"/>
-      <path d="M652,229 L690,219 L690,233 L652,243 Z"/>
+      <path d="M674,103 L690,95 L690,237 L674,245 Z"/>
+      <path d="M690,229 L728,219 L728,233 L690,243 Z"/>
 
       <!-- I -->
-      <path d="M704,103 L720,95 L720,237 L704,245 Z"/>
-      <path d="M712,58 L714.6,67.4 L724,70 L714.6,72.6 L712,82 L709.4,72.6 L700,70 L709.4,67.4 Z"/>
+      <path d="M742,103 L758,95 L758,237 L742,245 Z"/>
+      <path d="M750,58 L752.6,67.4 L762,70 L752.6,72.6 L750,82 L747.4,72.6 L738,70 L747.4,67.4 Z"/>
 
       <!-- N -->
-      <path d="M734,103 L750,95 L750,237 L734,245 Z"/>
-      <path d="M778,125 L794,117 L794,237 L778,245 Z"/>
-      <path d="M750,95 L764,95 L794,117 L778,125 L750,109 Z"/>
-      <rect x="785" y="245" width="2" height="18"/>
-      <path d="M786,261 L787.5,266.5 L793,268 L787.5,269.5 L786,275 L784.5,269.5 L779,268 L784.5,266.5 Z"/>
+      <path d="M772,103 L788,95 L788,237 L772,245 Z"/>
+      <path d="M816,125 L832,117 L832,237 L816,245 Z"/>
+      <path d="M788,95 L802,95 L832,117 L816,125 L788,109 Z"/>
+      <rect x="823" y="245" width="2" height="18"/>
+      <path d="M824,261 L825.5,266.5 L831,268 L825.5,269.5 L824,275 L822.5,269.5 L817,268 L822.5,266.5 Z"/>
 
       <!-- E -->
-      <path d="M808,115 L824,115 L824,225 L808,225 Z"/>
-      <path d="M808,115 L838,95 L864,105 L864,117 L838,109 L824,123 Z"/>
-      <path d="M824,167 L856,161 L856,173 L824,179 Z"/>
-      <path d="M808,225 L824,217 L838,231 L864,223 L864,235 L838,245 Z"/>
-
-      <!-- X -->
-      <path d="M878,103 L894,95 L940,237 L924,245 Z"/>
-      <path d="M932,95 L940,101 L886,245 L878,239 Z"/>
-      <rect x="885" y="76" width="2" height="22"/>
-      <path d="M886,65 L887.5,70.5 L893,72 L887.5,73.5 L886,79 L884.5,73.5 L879,72 L884.5,70.5 Z"/>
+      <path d="M846,115 L862,115 L862,225 L846,225 Z"/>
+      <path d="M846,115 L876,95 L902,105 L902,117 L876,109 L862,123 Z"/>
+      <path d="M862,167 L894,161 L894,173 L862,179 Z"/>
+      <path d="M846,225 L862,217 L876,231 L902,223 L902,235 L876,245 Z"/>
     </g>
 
     <!-- Subtitle lockup: SOFTWARE ——— ENGINEER -->
     <g class="f d3">
-      <text class="sans" x="340" y="304" font-size="15" letter-spacing="8" fill="#E8E7E4">SOFTWARE</text>
-      <line x1="486" y1="299" x2="794" y2="299" stroke="#777674" stroke-width="1"/>
+      <text class="sans" x="378" y="304" font-size="15" letter-spacing="8" fill="#E8E7E4">SOFTWARE</text>
+      <line x1="524" y1="299" x2="756" y2="299" stroke="#777674" stroke-width="1"/>
       <path d="M640,295 L644,299 L640,303 L636,299 Z" fill="#B8322A"/>
-      <text class="sans" x="948" y="304" font-size="15" letter-spacing="8" text-anchor="end" fill="#E8E7E4">ENGINEER</text>
+      <text class="sans" x="910" y="304" font-size="15" letter-spacing="8" text-anchor="end" fill="#E8E7E4">ENGINEER</text>
     </g>
 
     <!-- Bottom corners -->
