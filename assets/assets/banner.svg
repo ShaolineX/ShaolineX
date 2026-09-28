@@ -34,6 +34,13 @@
       .drift2 { animation: drift 18s ease-in-out infinite alternate-reverse; }
       @keyframes fade  { from { opacity: 0; } to { opacity: 1; } }
       @keyframes drift { from { transform: translateX(-50px); } to { transform: translateX(50px); } }
+      .glow { transform-box: fill-box; transform-origin: center; animation: glow 6s ease-in-out infinite alternate; }
+.moon { animation: moon 6s ease-in-out infinite alternate; }
+.ring { transform-box: fill-box; transform-origin: center; animation: ring 6s ease-out infinite; }
+.ring2 { animation-delay: -3s; }
+@keyframes glow { from { opacity: .55; transform: scale(.92); } to { opacity: 1; transform: scale(1.12); } }
+@keyframes moon { from { fill: #A82C25; } to { fill: #C43A2F; } }
+@keyframes ring { 0% { opacity: .5; transform: scale(1); } 100% { opacity: 0; transform: scale(1.9); } }
     </style>
   </defs>
 
@@ -42,9 +49,12 @@
 
     <g mask="url(#land)">
       <g class="f d1">
-        <circle cx="1090" cy="150" r="150" fill="url(#sunGlow)"/>
-        <circle cx="1090" cy="150" r="62" fill="#B8322A"/>
-      </g>
+  <circle class="glow" cx="1090" cy="150" r="150" fill="url(#sunGlow)"/>
+  <circle class="ring" cx="1090" cy="150" r="62" fill="none" stroke="#B8322A" stroke-width="1.5"/>
+  <circle class="ring ring2" cx="1090" cy="150" r="62" fill="none" stroke="#B8322A" stroke-width="1.5"/>
+  <circle class="moon" cx="1090" cy="150" r="62" fill="#B8322A"/>
+</g>
+
       <g class="f d5" fill="none" stroke="#6B6660" stroke-width="1.6" stroke-linecap="round">
         <path d="M992,96 q6,-6 12,0 q6,-6 12,0"/>
         <path d="M1022,78 q4,-4 8,0 q4,-4 8,0"/>
