@@ -85,10 +85,9 @@ Most nights, I’m at the desk building for **<a href="https://discord.gg/VdmgNd
 
 A bot built to run an entire server — **moderation, automation, and always-on systems** designed to stay reliable under real-world server load.
 
-
 <sub>JavaScript · Discord.js · Node.js · PostgreSQL</sub>
 
-[**› Repositories**](https://github.com/shaolinex?tab=repositories)
+[**› Repositories**](https://github.com/shaolinex?tab=repositories )
 
 </td>
 <td width="50%" valign="top">
@@ -98,13 +97,16 @@ A bot built to run an entire server — **moderation, automation, and always-on 
 Full-stack products from database to interface. Clean APIs underneath,
 considered frontends on top.
 
+  
+
 
 <sub>React · TypeScript · Node.js · MongoDB</sub>
 
-[**› Repositories**](https://github.com/shaolinex?tab=repositories)
+[**› Repositories**](https://github.com/shaolinex?tab=repositories )
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -115,7 +117,7 @@ Mostly Java, always on Linux.
 
 <sub>Java · Go · PostgreSQL · Docker</sub>
 
-[**› Repositories**](https://github.com/shaolinex?tab=repositories)
+[**› Repositories**](https://github.com/shaolinex?tab=repositories )
 
 </td>
 <td width="50%" valign="top">
@@ -127,10 +129,11 @@ I would rather write the tool.
 
 <sub>Bash · Python · C# · Linux</sub>
 
-[**› Repositories**](https://github.com/shaolinex?tab=repositories)
+[**› Repositories**](https://github.com/shaolinex?tab=repositories )
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -141,7 +144,7 @@ and the thinking behind them.
 
 <sub>YouTube · Engineering</sub>
 
-[**Youtube**](https://www.youtube.com/@Shaoline4X?sub_confirmation=1)
+[**Youtube**](https://www.youtube.com/@Shaoline4X?sub_confirmation=1 )
 
 </td>
 <td width="50%" valign="top">
@@ -150,13 +153,16 @@ and the thinking behind them.
 
 Everything else, and how it is put together, lives in the repositories.
 
-<br />
+  
 
-[**› github.com/shaolinex**](https://github.com/shaolinex)
+  
+
+
+[**› github.com/shaolinex**](https://github.com/shaolinex )
+
 </td>
 </tr>
 </table>
-
 <br />
 
 <div align="center">
