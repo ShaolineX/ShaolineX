@@ -13,14 +13,21 @@
     </radialGradient>
 
     <linearGradient id="fadeX" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0.44" stop-color="#fff" stop-opacity="0"/>
-      <stop offset="0.70" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.46" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.72" stop-color="#fff" stop-opacity="1"/>
     </linearGradient>
     <mask id="land"><rect width="1280" height="400" fill="url(#fadeX)"/></mask>
 
     <linearGradient id="haze" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0E0E10" stop-opacity="0"/>
       <stop offset="1" stop-color="#0E0E10" stop-opacity="0.85"/>
+    </linearGradient>
+
+    <linearGradient id="streak" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B8322A" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#B8322A" stop-opacity="0.9"/>
+      <stop offset="0.8" stop-color="#B8322A" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#B8322A" stop-opacity="0"/>
     </linearGradient>
 
     <filter id="grain" x="0" y="0" width="100%" height="100%">
@@ -30,7 +37,6 @@
     <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
 
     <style>
-      .serif { font-family: Georgia, 'Times New Roman', serif; }
       .sans  { font-family: Futura, 'Century Gothic', 'Avenir Next', Montserrat, Helvetica, Arial, sans-serif; }
       .mono  { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
       .f  { opacity: 0; animation: fade 1.6s ease-out forwards; }
@@ -55,7 +61,6 @@
         <circle cx="1050" cy="150" r="62" fill="#B8322A"/>
       </g>
 
-      <!-- Birds -->
       <g class="f d5" fill="none" stroke="#6B6660" stroke-width="1.6" stroke-linecap="round">
         <path d="M952,96 q6,-6 12,0 q6,-6 12,0"/>
         <path d="M982,78 q4,-4 8,0 q4,-4 8,0"/>
@@ -85,24 +90,40 @@
     <rect width="1280" height="400" filter="url(#grain)" opacity="0.06"/>
 
     <!-- Top label -->
-    <text class="mono f d1" x="80" y="96" font-size="13" letter-spacing="5" fill="#A8A29A">FULL STACK  /  CREATOR</text>
+    <text class="mono f d1" x="80" y="92" font-size="13" letter-spacing="5" fill="#A8A29A">FULL STACK  /  CREATOR</text>
 
-    <!-- Name (fixed width so the subtitle lines up exactly) -->
-    <text class="serif f d2" x="76" y="218" font-size="124" textLength="472" lengthAdjust="spacingAndGlyphs" fill="#F2EEE6">Shaoline</text>
+    <!-- Wordmark: italic blade-cut SHAOLINE -->
+    <g class="f d2" transform="translate(0 220) skewX(-14) translate(0 -220)">
+      <g fill="#F2EEE6" fill-rule="evenodd">
+        <!-- S -->
+        <path d="M90,110 L136,110 L129,130 L100,130 L100,155 L126,155 L136,165 L136,210 L126,220 L80,220 L87,200 L116,200 L116,175 L90,175 L80,165 L80,120 Z"/>
+        <!-- H -->
+        <path d="M146,118 L166,110 L166,155 L182,155 L182,118 L202,110 L202,212 L182,220 L182,175 L166,175 L166,212 L146,220 Z"/>
+        <!-- A -->
+        <path d="M212,220 L212,140 L238,110 L268,110 L268,220 L248,220 L248,182 L232,182 L232,220 Z M232,162 L248,162 L248,130 L242,130 L232,142 Z"/>
+        <!-- O -->
+        <path d="M292,110 L334,110 L334,206 L320,220 L278,220 L278,124 Z M298,130 L314,130 L314,200 L298,200 Z"/>
+        <!-- L -->
+        <path d="M344,118 L364,110 L364,200 L400,200 L392,220 L344,220 Z"/>
+        <!-- I -->
+        <path d="M410,118 L430,110 L430,212 L410,220 Z"/>
+        <!-- N -->
+        <path d="M440,118 L460,110 L476,160 L476,118 L496,110 L496,212 L476,220 L460,170 L460,212 L440,220 Z"/>
+        <!-- E -->
+        <path d="M516,110 L562,110 L555,130 L526,130 L526,155 L550,155 L544,175 L526,175 L526,200 L562,200 L555,220 L506,220 L506,120 Z"/>
+      </g>
 
-    <!-- Seal -->
-    <g class="f d3" transform="translate(574 150) rotate(-4)">
-      <rect width="56" height="56" rx="5" fill="#B8322A"/>
-      <rect x="5" y="5" width="46" height="46" rx="3" fill="none" stroke="#F2EEE6" stroke-opacity="0.6" stroke-width="1.5"/>
-      <text class="serif" x="28" y="40" font-size="34" text-anchor="middle" fill="#F2EEE6">S</text>
+      <!-- Katana slice through the letters -->
+      <path d="M60,194 L620,146 L620,148 L60,199 Z" fill="#101012"/>
+      <path d="M60,200 L620,149" stroke="url(#streak)" stroke-width="1.2"/>
     </g>
 
     <!-- Subtitle lockup: SOFTWARE ——— ENGINEER -->
     <g class="f d3">
       <text class="sans" x="80" y="262" font-size="14" letter-spacing="7" fill="#E8E7E4">SOFTWARE</text>
-      <line x1="224" y1="257" x2="404" y2="257" stroke="#777674" stroke-width="1"/>
-      <path d="M314,253 L318,257 L314,261 L310,257 Z" fill="#B8322A"/>
-      <text class="sans" x="555" y="262" font-size="14" letter-spacing="7" text-anchor="end" fill="#E8E7E4">ENGINEER</text>
+      <line x1="222" y1="257" x2="420" y2="257" stroke="#777674" stroke-width="1"/>
+      <path d="M321,253 L325,257 L321,261 L317,257 Z" fill="#B8322A"/>
+      <text class="sans" x="569" y="262" font-size="14" letter-spacing="7" text-anchor="end" fill="#E8E7E4">ENGINEER</text>
     </g>
 
     <!-- Tagline -->
