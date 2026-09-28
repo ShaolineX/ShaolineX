@@ -177,8 +177,9 @@ Everything else, and how it is put together, lives in the repositories.
 
 **Latest uploads**
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+<sub>First upload in progress. Subscribe to catch it when it lands.</sub>
+
+[![Subscribe](https://custom-icon-badges.demolab.com/badge/Subscribe-Shaoline4X-B8322A?style=for-the-badge&logo=video&logoColor=F2EEE6&labelColor=0E0E10)](https://www.youtube.com/@Shaoline4X?sub_confirmation=1)
 
 <br />
 
