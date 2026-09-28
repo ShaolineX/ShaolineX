@@ -1,85 +1,153 @@
-# 🐉 Shaoline
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d1117,50:8B0000,100:C79600&text=Shaoline%20%F0%9F%90%89&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Content%20Creator&descAlignY=58&descSize=20&animation=fadeIn" alt="Shaoline banner" />
+</p>
 
-**`Full Stack developer`**
+<p align="center">
+  <a href="https://github.com/shaolinex">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E05D44&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Discord+Bot+Architect;Java+Enthusiast+%E2%98%95;Linux+%26+Backend+Lover+%F0%9F%90%A7;Creator+%40+Shaoline4X+on+YouTube+%F0%9F%8E%AC" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm a full-stack software engineer building Discord bots, web applications, backends, frontends, and developer tools, and content creator at [ Shaoline4X ](https://youtube.com/@shaoline4x )  on YouTube 
-.
-
-   <p align="left">
-      <a href="https://www.youtube.com/@Shaoline4X?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-      <a href="https://www.youtube.com/@Shaoline4X?sub_confirmation=1">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
-      <a href="https://www.instagram.com/tbdx_x">
-         <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/FOLLOW%20ON-INSTAGRAM-E1306C.svg?logo=instagram&logoColor=white&style=for-the-badge&labelColor=D62976"/></a>
-      <a href="https://github.com/shaolinex?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/shaolinex?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="center">
+  <a href="https://www.youtube.com/@Shaoline4X?sub_confirmation=1">
+    <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" /></a>
+  <a href="https://www.youtube.com/@Shaoline4X">
+    <img alt="YouTube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" /></a>
+  <a href="https://github.com/shaolinex?tab=followers">
+    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/shaolinex?color=236AD3&labelColor=1155BA&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
+  <a href="https://github.com/shaolinex?tab=repositories&sort=stargazers">
+    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shaolinex?color=55960C&style=for-the-badge&labelColor=488207&logo=star&logoColor=white" /></a>
+  <img alt="Profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=shaolinex&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge" />
+</p>
 
 ---
 
-### 🚀 Languages & Technologies
+<!-- ===================== ABOUT ===================== -->
+## 🐉 About Me
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white )
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black )
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white )
-![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white )
-![C%23](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white )
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white )
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB )
-![Discord.js](https://img.shields.io/badge/discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white )
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black )
-![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white )
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white )
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white )
-![SQL](https://img.shields.io/badge/sql-%2300A6A6.svg?style=for-the-badge&logo=postgresql&logoColor=white )
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white )
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white )
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white )
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white )
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white )
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white )
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaolinex&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E05D44&langs_count=8" alt="Top languages" />
 
+I'm a **full-stack software engineer** who builds things from the ground up: Discord bots, web apps, backends, frontends, and developer tools. I also create content at [**Shaoline4X**](https://youtube.com/@shaoline4x) on YouTube.
 
-#
-<!--#
-### 📺 Latest YouTube Videos
+- 🔭 **Building:** Discord bots, full-stack web apps & dev tools
+- ☕ **Favorite language:** Java
+- 🐧 **Deep into:** Linux, backend systems & infrastructure
+- 🌱 **Learning:** Go, system design & cloud architecture
+- 🎬 **Creating:** Dev content on [YouTube](https://youtube.com/@shaoline4x)
+- 💬 **Ask me about:** Discord.js, React, Node.js, Linux
+- ⚡ **Fun fact:** I'd rather build a tool than do a task twice
 
+<br clear="right" />
 
-[![AI Has Broken Open Source](https://ytcards.demolab.com/?id=qazhWj8kYLo&title=AI+Has+Broken+Open+Source&lang=en&timestamp=1786993393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1545 "AI Has Broken Open Source")](https://www.youtube.com/watch?v=qazhWj8kYLo)
-[![Why Everyone's Rewriting Everything in Rust](https://ytcards.demolab.com/?id=iu_ALBDtoHo&title=Why+Everyone%27s+Rewriting+Everything+in+Rust&lang=en&timestamp=1786377950&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1542 "Why Everyone's Rewriting Everything in Rust")](https://www.youtube.com/watch?v=iu_ALBDtoHo)
-[![My IntelliJ IDEA Setup for Java Development](https://ytcards.demolab.com/?id=nZ9PBEXyBYA&title=My+IntelliJ+IDEA+Setup+for+Java+Development&lang=en&timestamp=1785177912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1034 "My IntelliJ IDEA Setup for Java Development")](https://www.youtube.com/watch?v=nZ9PBEXyBYA)
-[![Coding with Grok 4.5 is surprisingly good…](https://ytcards.demolab.com/?id=5J6HCDEkg64&title=Coding+with+Grok+4.5+is+surprisingly+good%E2%80%A6&lang=en&timestamp=1783717238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1622 "Coding with Grok 4.5 is surprisingly good…")](https://www.youtube.com/watch?v=5J6HCDEkg64)
-[![AI Isn't Actually Replacing Developers (Big Tech Layoffs)](https://ytcards.demolab.com/?id=7QKcphdM5Cw&title=AI+Isn%27t+Actually+Replacing+Developers+%28Big+Tech+Layoffs%29&lang=en&timestamp=1783013436&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2123 "AI Isn't Actually Replacing Developers (Big Tech Layoffs)")](https://www.youtube.com/watch?v=7QKcphdM5Cw)
-[![Local AI Coding is Finally Good Enough](https://ytcards.demolab.com/?id=zPqcS5AvQvQ&title=Local+AI+Coding+is+Finally+Good+Enough&lang=en&timestamp=1781818817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "Local AI Coding is Finally Good Enough")](https://www.youtube.com/watch?v=zPqcS5AvQvQ)
+---
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
--->
+<!-- ===================== TECH STACK ===================== -->
+## 🚀 Tech Arsenal
+
+<table>
+  <tr>
+    <td align="center" width="150"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://custom-icon-badges.demolab.com/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://custom-icon-badges.demolab.com/badge/SQL-00A6A6?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ DevOps & Tools</b></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Dragon Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaolinex&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E05D44&icon_color=C79600&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=shaolinex&theme=radical&hide_border=true&background=0D1117&ring=E05D44&fire=C79600&currStreakLabel=E05D44" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaolinex&bg_color=0d1117&color=E05D44&line=8B0000&point=C79600&area=true&area_color=8B0000&hide_border=true&custom_title=Shaoline's%20Contribution%20Graph" alt="Contribution graph" />
+</p>
+
+---
+
+<!-- ===================== YOUTUBE ===================== -->
+## 📺 Latest From Shaoline4X
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+<p align="center">
+  <a href="https://www.youtube.com/@Shaoline4X?sub_confirmation=1">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-CE4630?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe" />
+  </a>
+</p>
+
+---
+
+<!-- ===================== JOURNEY ===================== -->
 <details>
-  <summary><h3> 🌱 My Journey as a Software Engineer</h3></summary>
+  <summary><h2>🌱 My Journey as a Software Engineer</h2></summary>
 
-  I’m a full-stack software engineer who enjoys building things from the ground up. My work spans Discord bots, web applications, backend systems, frontends, and developer tools. I enjoy solving problems, learning new technologies, and turning ideas into software that is practical, useful, and reliable.
+  I enjoy building things from the ground up. My work spans Discord bots, web applications, backend systems, frontends, and developer tools. I love solving problems, learning new technologies, and turning ideas into software that is **practical, useful, and reliable**.
 
-  I’m especially interested in Linux, backend development, and the tools that power modern applications. I’m also a Java enthusiast, while continuing to work with JavaScript, Python, C#, React, Discord.js, and other technologies as each project demands.
+  I'm especially drawn to **Linux**, **backend development**, and the tools that power modern applications. I'm a **Java enthusiast** at heart, and I also work with JavaScript, Python, C#, React, and Discord.js as each project needs.
 
-  My goal is to keep improving as an engineer by building real projects, experimenting with different technologies, and exploring how software works beneath the surface. Whether I’m creating a Discord bot, designing a web interface, configuring a Linux system, or building a complete full-stack application, I’m always looking for a better way to learn, create, and solve problems.
+  My goal is to keep growing by building real projects, experimenting with new tech, and exploring how software works beneath the surface. Whether it's a Discord bot, a web interface, a Linux setup, or a complete full-stack app, I'm always looking for a better way to learn, create, and solve problems.
 
-  There is still a lot left to build, and I’m just getting started.
-
-  <p>
-   <a href="https://soon.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Website-5865F2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
-   </a>
-    <a href="https://www.youtube.com/@Shaoline4X" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    <a href="https://www.instagram.com/tbdx_x" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-     <a href="https://discord.gg/VdmgNduYWt" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Server" />
-</a>
-  </p>
+  > *There is still a lot left to build, and I'm just getting started.* 🐉
 </details>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.youtube.com/@Shaoline4X"><img src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/tbdx_x"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.gg/VdmgNduYWt"><img src="https://custom-icon-badges.demolab.com/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/Website-Coming%20Soon-8B0000?style=for-the-badge&logo=globe&logoColor=white" alt="Website coming soon" />
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C79600,50:8B0000,100:0d1117" alt="Footer" />
+</p>
