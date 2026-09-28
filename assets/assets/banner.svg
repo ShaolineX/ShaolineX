@@ -82,13 +82,10 @@
     <!-- Grain -->
     <rect width="1280" height="400" filter="url(#grain)" opacity="0.06"/>
 
-    <!-- Top-left ornament -->
-    <g class="f d1" fill="#E8E7E4">
-      <path d="M67,50 L73,46 L73,94 L67,98 Z"/>
-      <path d="M58,66 L82,62 L82,66 L58,70 Z"/>
-      <path d="M70,31 L71.5,36.5 L77,38 L71.5,39.5 L70,45 L68.5,39.5 L63,38 L68.5,36.5 Z"/>
-      <path d="M70,99 L71.5,104.5 L77,106 L71.5,107.5 L70,113 L68.5,107.5 L63,106 L68.5,104.5 Z"/>
-    </g>
+    <!-- Top-left logo -->
+    <image class="f d1" x="40" y="32" width="64" height="64"
+           preserveAspectRatio="xMidYMid meet"
+           href="data:image/png;base64,PASTE_HERE"/>
 
     <!-- Wordmark: SHAOLINE, ultra-heavy blackletter with star terminals -->
     <g class="f d2" fill="#F2EEE6">
