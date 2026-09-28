@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Shaoline, Software Engineer" />
+<img src="./assets/banner.svg" width="100%" alt="ShaolineX, Software Engineer" />
 
 <br /><br />
 
-![Software Engineer](https://custom-icon-badges.demolab.com/badge/Software_Engineer-0E0E10?style=for-the-badge&labelColor=0E0E10)
+![Software Engineer](https://custom-icon-badges.demolab.com/badge/Software_Engineer-303030?style=for-the-badge&labelColor=303030)
 &nbsp;
-![Full Stack](https://custom-icon-badges.demolab.com/badge/Full_Stack-0E0E10?style=for-the-badge&labelColor=0E0E10)
+![Full Stack](https://custom-icon-badges.demolab.com/badge/Full_Stack-303030?style=for-the-badge&labelColor=303030)
 &nbsp;
-![Java and Linux](https://custom-icon-badges.demolab.com/badge/Java_·_Linux-0E0E10?style=for-the-badge&labelColor=0E0E10)
-&nbsp;
-[![Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?label=Subscribers&logo=video&logoColor=F2EEE6&style=for-the-badge&labelColor=0E0E10&color=0E0E10)](https://www.youtube.com/@Shaoline4X?sub_confirmation=1)
+![Java and Linux](https://custom-icon-badges.demolab.com/badge/Java_·_Linux-303030?style=for-the-badge&labelColor=303030)
 
 </div>
 
@@ -30,28 +28,28 @@ or breaking the work down on **[Shaoline4X](https://youtube.com/@shaoline4x)**.
 **Stack**
 
 <sub>LANGUAGES</sub><br />
-![Java](https://custom-icon-badges.demolab.com/badge/Java-0E0E10?style=for-the-badge&logo=openjdk&logoColor=F2EEE6)
-![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-0E0E10?style=for-the-badge&logo=typescript&logoColor=F2EEE6)
-![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-0E0E10?style=for-the-badge&logo=javascript&logoColor=F2EEE6)
-![Python](https://custom-icon-badges.demolab.com/badge/Python-0E0E10?style=for-the-badge&logo=python&logoColor=F2EEE6)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-0E0E10?style=for-the-badge&logo=csharp&logoColor=F2EEE6)
-![Go](https://custom-icon-badges.demolab.com/badge/Go-0E0E10?style=for-the-badge&logo=go&logoColor=F2EEE6)
-![Bash](https://custom-icon-badges.demolab.com/badge/Bash-0E0E10?style=for-the-badge&logo=gnubash&logoColor=F2EEE6)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-303030?style=for-the-badge&logo=openjdk&logoColor=E8E7E4)
+![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-303030?style=for-the-badge&logo=typescript&logoColor=E8E7E4)
+![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-303030?style=for-the-badge&logo=javascript&logoColor=E8E7E4)
+![Python](https://custom-icon-badges.demolab.com/badge/Python-303030?style=for-the-badge&logo=python&logoColor=E8E7E4)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-303030?style=for-the-badge&logo=csharp&logoColor=E8E7E4)
+![Go](https://custom-icon-badges.demolab.com/badge/Go-303030?style=for-the-badge&logo=go&logoColor=E8E7E4)
+![Bash](https://custom-icon-badges.demolab.com/badge/Bash-303030?style=for-the-badge&logo=gnubash&logoColor=E8E7E4)
 
 <sub>FRAMEWORKS</sub><br />
-![React](https://custom-icon-badges.demolab.com/badge/React-0E0E10?style=for-the-badge&logo=react&logoColor=F2EEE6)
-![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-0E0E10?style=for-the-badge&logo=nodedotjs&logoColor=F2EEE6)
-![Discord.js](https://custom-icon-badges.demolab.com/badge/Discord.js-0E0E10?style=for-the-badge&logo=discord&logoColor=F2EEE6)
-![HTML](https://custom-icon-badges.demolab.com/badge/HTML-0E0E10?style=for-the-badge&logo=html5&logoColor=F2EEE6)
-![CSS](https://custom-icon-badges.demolab.com/badge/CSS-0E0E10?style=for-the-badge&logo=css3&logoColor=F2EEE6)
+![React](https://custom-icon-badges.demolab.com/badge/React-303030?style=for-the-badge&logo=react&logoColor=E8E7E4)
+![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-303030?style=for-the-badge&logo=nodedotjs&logoColor=E8E7E4)
+![Discord.js](https://custom-icon-badges.demolab.com/badge/Discord.js-303030?style=for-the-badge&logo=discord&logoColor=E8E7E4)
+![HTML](https://custom-icon-badges.demolab.com/badge/HTML-303030?style=for-the-badge&logo=html5&logoColor=E8E7E4)
+![CSS](https://custom-icon-badges.demolab.com/badge/CSS-303030?style=for-the-badge&logo=css3&logoColor=E8E7E4)
 
 <sub>INFRASTRUCTURE</sub><br />
-![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-0E0E10?style=for-the-badge&logo=postgresql&logoColor=F2EEE6)
-![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-0E0E10?style=for-the-badge&logo=mongodb&logoColor=F2EEE6)
-![Docker](https://custom-icon-badges.demolab.com/badge/Docker-0E0E10?style=for-the-badge&logo=docker&logoColor=F2EEE6)
-![Linux](https://custom-icon-badges.demolab.com/badge/Linux-0E0E10?style=for-the-badge&logo=linux&logoColor=F2EEE6)
-![Cloudflare](https://custom-icon-badges.demolab.com/badge/Cloudflare-0E0E10?style=for-the-badge&logo=cloudflare&logoColor=F2EEE6)
-![Git](https://custom-icon-badges.demolab.com/badge/Git-0E0E10?style=for-the-badge&logo=git&logoColor=F2EEE6)
+![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-303030?style=for-the-badge&logo=postgresql&logoColor=E8E7E4)
+![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-303030?style=for-the-badge&logo=mongodb&logoColor=E8E7E4)
+![Docker](https://custom-icon-badges.demolab.com/badge/Docker-303030?style=for-the-badge&logo=docker&logoColor=E8E7E4)
+![Linux](https://custom-icon-badges.demolab.com/badge/Linux-303030?style=for-the-badge&logo=linux&logoColor=E8E7E4)
+![Cloudflare](https://custom-icon-badges.demolab.com/badge/Cloudflare-303030?style=for-the-badge&logo=cloudflare&logoColor=E8E7E4)
+![Git](https://custom-icon-badges.demolab.com/badge/Git-303030?style=for-the-badge&logo=git&logoColor=E8E7E4)
 
 <br />
 
@@ -141,7 +139,7 @@ Everything else, and how it is put together, lives in the repositories.
 
 **Activity**
 
-<img width="100%" src="https://streak-stats.demolab.com?user=shaolinex&hide_border=true&background=0E0E10&ring=B8322A&fire=B8322A&currStreakNum=F2EEE6&sideNums=F2EEE6&currStreakLabel=F2EEE6&sideLabels=A8A29A&dates=6B6660&stroke=2A2A2E&card_width=1200" alt="GitHub streak" />
+<img width="100%" src="https://streak-stats.demolab.com?user=shaolinex&hide_border=true&background=303030&ring=E8E7E4&fire=E8E7E4&currStreakNum=E8E7E4&sideNums=E8E7E4&currStreakLabel=E8E7E4&sideLabels=A9A8A5&dates=777674&stroke=777674&card_width=1200" alt="GitHub streak" />
 
 <br />
 
@@ -149,22 +147,22 @@ Everything else, and how it is put together, lives in the repositories.
 
 <sub>First upload in progress. Subscribe to catch it when it lands.</sub>
 
-[![Subscribe](https://custom-icon-badges.demolab.com/badge/Subscribe-Shaoline4X-B8322A?style=for-the-badge&logo=video&logoColor=F2EEE6&labelColor=0E0E10)](https://www.youtube.com/@Shaoline4X?sub_confirmation=1)
+[![Subscribe](https://custom-icon-badges.demolab.com/badge/Subscribe-Shaoline4X-E8E7E4?style=for-the-badge&logo=video&logoColor=E8E7E4&labelColor=303030)](https://www.youtube.com/@Shaoline4X?sub_confirmation=1)
 
 <br />
 
 <div align="center">
 
-[![Shaoline4X](https://custom-icon-badges.demolab.com/badge/Shaoline4X-B8322A?style=for-the-badge&logo=youtube&logoColor=F2EEE6&labelColor=0E0E10)](https://youtube.com/@shaoline4x)
+[![Shaoline4X](https://custom-icon-badges.demolab.com/badge/Shaoline4X-E8E7E4?style=for-the-badge&logo=youtube&logoColor=E8E7E4&labelColor=303030)](https://youtube.com/@shaoline4x)
 &nbsp;
-[![Discord](https://custom-icon-badges.demolab.com/badge/Discord-0E0E10?style=for-the-badge&logo=discord&logoColor=F2EEE6)](https://discord.gg/VdmgNduYWt)
+[![Discord](https://custom-icon-badges.demolab.com/badge/Discord-303030?style=for-the-badge&logo=discord&logoColor=E8E7E4)](https://discord.gg/VdmgNduYWt)
 &nbsp;
-[![Instagram](https://custom-icon-badges.demolab.com/badge/tbdx__x-0E0E10?style=for-the-badge&logo=instagram&logoColor=F2EEE6)](https://www.instagram.com/tbdx_x)
+[![Instagram](https://custom-icon-badges.demolab.com/badge/tbdx__x-303030?style=for-the-badge&logo=instagram&logoColor=E8E7E4)](https://www.instagram.com/tbdx_x)
 &nbsp;
-[![GitHub](https://custom-icon-badges.demolab.com/badge/shaolinex-0E0E10?style=for-the-badge&logo=github&logoColor=F2EEE6)](https://github.com/shaolinex)
+[![GitHub](https://custom-icon-badges.demolab.com/badge/shaolinex-303030?style=for-the-badge&logo=github&logoColor=E8E7E4)](https://github.com/shaolinex)
 
 <br /><br />
 
-<sub><em>Still a lot left to build.</em></sub>
+<sub><em>Less talk, more code.</em></sub>
 
 </div>
