@@ -171,6 +171,6 @@ Everything else, and how it is put together, lives in the repositories.
 
 <br /><br />
 
-<sub><em>Less talk, more code.</em></sub>
+<sub><em>Code. Build. Repeat.</em></sub>
 
 </div>
