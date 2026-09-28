@@ -27,29 +27,53 @@ or breaking the work down on **[Shaoline4X](https://youtube.com/@shaoline4x)**.
 
 **Stack**
 
-<sub>LANGUAGES</sub><br />
-![Java](https://custom-icon-badges.demolab.com/badge/Java-303030?style=for-the-badge&logo=openjdk&logoColor=E8E7E4)
-![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-303030?style=for-the-badge&logo=typescript&logoColor=E8E7E4)
-![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-303030?style=for-the-badge&logo=javascript&logoColor=E8E7E4)
-![Python](https://custom-icon-badges.demolab.com/badge/Python-303030?style=for-the-badge&logo=python&logoColor=E8E7E4)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-303030?style=for-the-badge&logo=csharp&logoColor=E8E7E4)
-![Go](https://custom-icon-badges.demolab.com/badge/Go-303030?style=for-the-badge&logo=go&logoColor=E8E7E4)
-![Bash](https://custom-icon-badges.demolab.com/badge/Bash-303030?style=for-the-badge&logo=gnubash&logoColor=E8E7E4)
+<table width="100%">
+<tr>
+<td width="18%" valign="middle"><sub><b>LANGUAGES</b></sub></td>
+<td>
+<img src="https://custom-icon-badges.demolab.com/badge/Java-0E0E10?style=for-the-badge&logo=openjdk&logoColor=F2EEE6" alt="Java" />
+<img src="https://custom-icon-badges.demolab.com/badge/TypeScript-0E0E10?style=for-the-badge&logo=typescript&logoColor=F2EEE6" alt="TypeScript" />
+<img src="https://custom-icon-badges.demolab.com/badge/JavaScript-0E0E10?style=for-the-badge&logo=javascript&logoColor=F2EEE6" alt="JavaScript" />
+<img src="https://custom-icon-badges.demolab.com/badge/Python-0E0E10?style=for-the-badge&logo=python&logoColor=F2EEE6" alt="Python" />
+<img src="https://custom-icon-badges.demolab.com/badge/C%23-0E0E10?style=for-the-badge&logo=csharp&logoColor=F2EEE6" alt="C#" />
+<img src="https://custom-icon-badges.demolab.com/badge/Go-0E0E10?style=for-the-badge&logo=go&logoColor=F2EEE6" alt="Go" />
+<img src="https://custom-icon-badges.demolab.com/badge/Bash-0E0E10?style=for-the-badge&logo=gnubash&logoColor=F2EEE6" alt="Bash" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>FRONTEND</b></sub></td>
+<td>
+<img src="https://custom-icon-badges.demolab.com/badge/React-0E0E10?style=for-the-badge&logo=react&logoColor=F2EEE6" alt="React" />
+<img src="https://custom-icon-badges.demolab.com/badge/HTML-0E0E10?style=for-the-badge&logo=html5&logoColor=F2EEE6" alt="HTML" />
+<img src="https://custom-icon-badges.demolab.com/badge/CSS-0E0E10?style=for-the-badge&logo=css3&logoColor=F2EEE6" alt="CSS" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>BACKEND</b></sub></td>
+<td>
+<img src="https://custom-icon-badges.demolab.com/badge/Node.js-0E0E10?style=for-the-badge&logo=nodedotjs&logoColor=F2EEE6" alt="Node.js" />
+<img src="https://custom-icon-badges.demolab.com/badge/Discord.js-0E0E10?style=for-the-badge&logo=discord&logoColor=F2EEE6" alt="Discord.js" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>DATA</b></sub></td>
+<td>
+<img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-0E0E10?style=for-the-badge&logo=postgresql&logoColor=F2EEE6" alt="PostgreSQL" />
+<img src="https://custom-icon-badges.demolab.com/badge/MongoDB-0E0E10?style=for-the-badge&logo=mongodb&logoColor=F2EEE6" alt="MongoDB" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>INFRASTRUCTURE</b></sub></td>
+<td>
+<img src="https://custom-icon-badges.demolab.com/badge/Linux-0E0E10?style=for-the-badge&logo=linux&logoColor=F2EEE6" alt="Linux" />
+<img src="https://custom-icon-badges.demolab.com/badge/Docker-0E0E10?style=for-the-badge&logo=docker&logoColor=F2EEE6" alt="Docker" />
+<img src="https://custom-icon-badges.demolab.com/badge/Cloudflare-0E0E10?style=for-the-badge&logo=cloudflare&logoColor=F2EEE6" alt="Cloudflare" />
+<img src="https://custom-icon-badges.demolab.com/badge/Git-0E0E10?style=for-the-badge&logo=git&logoColor=F2EEE6" alt="Git" />
+</td>
+</tr>
+</table>
 
-<sub>FRAMEWORKS</sub><br />
-![React](https://custom-icon-badges.demolab.com/badge/React-303030?style=for-the-badge&logo=react&logoColor=E8E7E4)
-![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-303030?style=for-the-badge&logo=nodedotjs&logoColor=E8E7E4)
-![Discord.js](https://custom-icon-badges.demolab.com/badge/Discord.js-303030?style=for-the-badge&logo=discord&logoColor=E8E7E4)
-![HTML](https://custom-icon-badges.demolab.com/badge/HTML-303030?style=for-the-badge&logo=html5&logoColor=E8E7E4)
-![CSS](https://custom-icon-badges.demolab.com/badge/CSS-303030?style=for-the-badge&logo=css3&logoColor=E8E7E4)
-
-<sub>INFRASTRUCTURE</sub><br />
-![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-303030?style=for-the-badge&logo=postgresql&logoColor=E8E7E4)
-![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-303030?style=for-the-badge&logo=mongodb&logoColor=E8E7E4)
-![Docker](https://custom-icon-badges.demolab.com/badge/Docker-303030?style=for-the-badge&logo=docker&logoColor=E8E7E4)
-![Linux](https://custom-icon-badges.demolab.com/badge/Linux-303030?style=for-the-badge&logo=linux&logoColor=E8E7E4)
-![Cloudflare](https://custom-icon-badges.demolab.com/badge/Cloudflare-303030?style=for-the-badge&logo=cloudflare&logoColor=E8E7E4)
-![Git](https://custom-icon-badges.demolab.com/badge/Git-303030?style=for-the-badge&logo=git&logoColor=E8E7E4)
+<br />
 
 <br />
 
