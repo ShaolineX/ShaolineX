@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+  <defs>
+    <clipPath id="frame"><rect width="1280" height="400" rx="18"/></clipPath>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#131315"/>
+      <stop offset="1" stop-color="#0A0A0B"/>
+    </linearGradient>
+
+    <radialGradient id="sunGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#B8322A" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#B8322A" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="fadeX" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.46" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.74" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="land"><rect width="1280" height="400" fill="url(#fadeX)"/></mask>
+
+    <linearGradient id="haze" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E0E10" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0E0E10" stop-opacity="0.85"/>
+    </linearGradient>
+
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
+
+    <style>
+      .sans { font-family: Futura, 'Century Gothic', 'Avenir Next', Montserrat, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .f  { animation: fade 1.6s ease-out both; }
+      .d1 { animation-delay: .1s; }  .d2 { animation-delay: .4s; }
+      .d3 { animation-delay: .7s; }  .d4 { animation-delay: 1s; }
+      .d5 { animation-delay: 1.3s; }
+      .drift  { animation: drift 14s ease-in-out infinite alternate; }
+      .drift2 { animation: drift 18s ease-in-out infinite alternate-reverse; }
+      @keyframes fade  { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes drift { from { transform: translateX(-50px); } to { transform: translateX(50px); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- Base -->
+    <rect width="1280" height="400" fill="url(#bg)"/>
+
+    <!-- Landscape -->
+    <g mask="url(#land)">
+      <g class="f d1">
+        <circle cx="1090" cy="150" r="150" fill="url(#sunGlow)"/>
+        <circle cx="1090" cy="150" r="62" fill="#B8322A"/>
+      </g>
+
+      <g class="f d5" fill="none" stroke="#6B6660" stroke-width="1.6" stroke-linecap="round">
+        <path d="M992,96 q6,-6 12,0 q6,-6 12,0"/>
+        <path d="M1022,78 q4,-4 8,0 q4,-4 8,0"/>
+        <path d="M972,118 q3,-3 6,0 q3,-3 6,0"/>
+      </g>
+
+      <path class="f d2" fill="#28272C"
+        d="M560 300 C 660 270 740 205 830 230 S 960 140 1090 200 S 1190 160 1280 205 V400 H560 Z"/>
+      <rect class="f d2" x="560" y="190" width="720" height="210" fill="url(#haze)"/>
+
+      <g class="f d3">
+        <ellipse class="drift" cx="960" cy="262" rx="260" ry="16" fill="#F2EEE6" opacity="0.05" filter="url(#soft)"/>
+      </g>
+
+      <path class="f d3" fill="#1B1B1E"
+        d="M620 345 C 720 305 800 285 890 310 S 1030 255 1120 295 S 1230 275 1280 300 V400 H620 Z"/>
+
+      <g class="f d4">
+        <ellipse class="drift2" cx="1030" cy="330" rx="300" ry="14" fill="#F2EEE6" opacity="0.045" filter="url(#soft)"/>
+      </g>
+
+      <path class="f d4" fill="#111113"
+        d="M560 385 C 680 355 800 348 910 370 S 1110 336 1280 362 V400 H560 Z"/>
+    </g>
+
+    <!-- Grain -->
+    <rect width="1280" height="400" filter="url(#grain)" opacity="0.06"/>
+
+    <!-- Top-left ornament -->
+    <g class="f d1" fill="#E8E7E4">
+      <path d="M67,50 L73,46 L73,94 L67,98 Z"/>
+      <path d="M58,66 L82,62 L82,66 L58,70 Z"/>
+      <path d="M70,31 L71.5,36.5 L77,38 L71.5,39.5 L70,45 L68.5,39.5 L63,38 L68.5,36.5 Z"/>
+      <path d="M70,99 L71.5,104.5 L77,106 L71.5,107.5 L70,113 L68.5,107.5 L63,106 L68.5,104.5 Z"/>
+    </g>
+
+    <!-- Wordmark: SHAOLINE, ultra-heavy blackletter with star terminals -->
+    <g class="f d2" fill="#F2EEE6">
+      <!-- S -->
+      <path d="M382,85 L426,85 L434,73 L432,93 L432,109 L392,109 L392,151 L420,151 L432,163 L432,233 L420,245 L376,245 L368,257 L370,237 L370,221 L410,221 L410,179 L382,179 L370,167 L370,97 Z"/>
+
+      <!-- H -->
+      <path d="M455,67 L459,82 L470,85 L466,91 L466,239 L470,245 L459,248 L455,263 L451,248 L440,245 L444,239 L444,91 L440,85 L451,82 Z"/>
+      <path d="M495,67 L499,82 L510,85 L506,91 L506,239 L510,245 L499,248 L495,263 L491,248 L480,245 L484,239 L484,91 L480,85 L491,82 Z"/>
+      <path d="M466,159 L484,153 L484,175 L466,181 Z"/>
+
+      <!-- A -->
+      <path d="M518,137 L540,125 L540,239 L544,245 L533,248 L529,263 L525,248 L514,245 L518,239 Z"/>
+      <path d="M518,135 L558,89 L558,115 L540,137 Z"/>
+      <path d="M569,67 L573,82 L584,85 L580,91 L580,239 L584,245 L573,248 L569,263 L565,248 L554,245 L558,239 L558,91 L554,85 L565,82 Z"/>
+      <path d="M540,183 L558,177 L558,197 L540,203 Z"/>
+
+      <!-- O -->
+      <path d="M592,105 L623,73 L654,105 L632,115 L623,107 L614,115 Z"/>
+      <path d="M592,105 L614,105 L614,225 L592,225 Z"/>
+      <path d="M632,105 L654,105 L654,225 L632,225 Z"/>
+      <path d="M592,225 L614,215 L623,223 L632,215 L654,225 L623,257 Z"/>
+
+      <!-- L -->
+      <path d="M677,67 L681,82 L692,85 L688,91 L688,239 L692,245 L681,248 L677,263 L673,248 L662,245 L666,239 L666,91 L662,85 L673,82 Z"/>
+      <path d="M688,223 L716,217 L728,205 L724,235 L712,245 L688,245 Z"/>
+
+      <!-- I -->
+      <path d="M751,67 L755,82 L766,85 L762,91 L762,239 L766,245 L755,248 L751,263 L747,248 L736,245 L740,239 L740,91 L736,85 L747,82 Z"/>
+
+      <!-- N -->
+      <path d="M785,67 L789,82 L800,85 L796,91 L796,239 L800,245 L789,248 L785,263 L781,248 L770,245 L774,239 L774,91 L770,85 L781,82 Z"/>
+      <path d="M825,67 L829,82 L840,85 L836,91 L836,239 L840,245 L829,248 L825,263 L821,248 L810,245 L814,239 L814,91 L810,85 L821,82 Z"/>
+      <path d="M796,99 L814,181 L814,231 L796,149 Z"/>
+
+      <!-- E -->
+      <path d="M859,67 L863,82 L874,85 L870,91 L870,239 L874,245 L863,248 L859,263 L855,248 L844,245 L848,239 L848,91 L844,85 L855,82 Z"/>
+      <path d="M870,85 L900,85 L912,73 L910,109 L870,109 Z"/>
+      <path d="M870,155 L898,155 L904,165 L898,175 L870,175 Z"/>
+      <path d="M870,221 L910,221 L912,257 L900,245 L870,245 Z"/>
+    </g>
+
+    <!-- Subtitle lockup: SOFTWARE ——— ENGINEER -->
+    <g class="f d3">
+      <text class="sans" x="370" y="304" font-size="15" letter-spacing="8" fill="#E8E7E4">SOFTWARE</text>
+      <line x1="522" y1="299" x2="762" y2="299" stroke="#777674" stroke-width="1"/>
+      <path d="M640,295 L644,299 L640,303 L636,299 Z" fill="#B8322A"/>
+      <text class="sans" x="918" y="304" font-size="15" letter-spacing="8" text-anchor="end" fill="#E8E7E4">ENGINEER</text>
+    </g>
+
+    <!-- Bottom corners -->
+    <text class="mono f d5" x="80" y="366" font-size="11" letter-spacing="3" fill="#6B6660">JAVA  ·  LINUX  ·  DISCORD.JS  ·  REACT</text>
+    <text class="mono f d5" x="1200" y="366" font-size="11" letter-spacing="3" text-anchor="end" fill="#8A857E">YOUTUBE.COM/@SHAOLINE4X</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1279" height="399" rx="18" fill="none" stroke="#2A2A2E"/>
+</svg>
