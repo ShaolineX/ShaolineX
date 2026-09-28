@@ -6,9 +6,9 @@
 
 ![Software Engineer](https://custom-icon-badges.demolab.com/badge/Software_Engineer-303030?style=for-the-badge&labelColor=303030)
 &nbsp;
-![Full Stack](https://custom-icon-badges.demolab.com/badge/Full_Stack-303030?style=for-the-badge&labelColor=303030)
+![Web Developer](https://custom-icon-badges.demolab.com/badge/Web_Developer-303030?style=for-the-badge&labelColor=303030)
 &nbsp;
-![Java and Linux](https://custom-icon-badges.demolab.com/badge/Java_·_Linux-303030?style=for-the-badge&labelColor=303030)
+![Morocco · safi](https://custom-icon-badges.demolab.com/badge/Morocco_·_safi-303030?style=for-the-badge&labelColor=303030)
 
 </div>
 
