@@ -16,9 +16,8 @@
 
 ### Hey, I'm Shaoline.
 
-I build software from the ground up: Discord bots, web applications, backends,
-and the tools developers reach for every day. **Java** by preference, **Linux**
-by default, and whatever else the problem calls for.
+I build software from the ground up — **Discord bots, web applications, backends, and developer tools**. **Java** by preference, **Linux** by default, and whatever the problem calls for. Most of what I build is made to be used, including Discord bots serving a community of **1,000+**. **Built in Safi, Morocco.**
+
 
 Most nights, I’m at the desk building for **<a href="https://discord.gg/VdmgNduYWt" target="_blank" rel="noopener noreferrer">discord.gg/shaolinex</a>** — and sharing what I build on **<a href="https://youtube.com/@shaoline4x" target="_blank" rel="noopener noreferrer">Youtube</a>**.
 
@@ -82,10 +81,10 @@ Most nights, I’m at the desk building for **<a href="https://discord.gg/VdmgNd
 <tr>
 <td width="50%" valign="top">
 
-### Discord Bots
+### ShaolineX Manager
 
-Moderation, automation, and community systems that run around the clock
-and stay quiet under real server load.
+A bot built to run an entire server — **moderation, automation, and always-on systems** designed to stay reliable under real-world server load.
+
 
 <sub>JavaScript · Discord.js · Node.js · PostgreSQL</sub>
 
@@ -98,6 +97,7 @@ and stay quiet under real server load.
 
 Full-stack products from database to interface. Clean APIs underneath,
 considered frontends on top.
+
 
 <sub>React · TypeScript · Node.js · MongoDB</sub>
 
@@ -141,7 +141,7 @@ and the thinking behind them.
 
 <sub>YouTube · Engineering</sub>
 
-[**› Watch**](https://youtube.com/@shaoline4x) · [**Subscribe**](https://www.youtube.com/@Shaoline4X?sub_confirmation=1)
+[**Youtube**](https://www.youtube.com/@Shaoline4X?sub_confirmation=1)
 
 </td>
 <td width="50%" valign="top">
@@ -153,7 +153,6 @@ Everything else, and how it is put together, lives in the repositories.
 <br />
 
 [**› github.com/shaolinex**](https://github.com/shaolinex)
-
 </td>
 </tr>
 </table>
