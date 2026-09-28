@@ -153,10 +153,7 @@ and the thinking behind them.
 
 Everything else, and how it is put together, lives in the repositories.
 
-  
-
-  
-
+<sub>Tools · Projects</sub>
 
 [**› github.com/shaolinex**](https://github.com/shaolinex )
 
