@@ -14,20 +14,13 @@
 
     <linearGradient id="fadeX" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0.46" stop-color="#fff" stop-opacity="0"/>
-      <stop offset="0.72" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.74" stop-color="#fff" stop-opacity="1"/>
     </linearGradient>
     <mask id="land"><rect width="1280" height="400" fill="url(#fadeX)"/></mask>
 
     <linearGradient id="haze" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0E0E10" stop-opacity="0"/>
       <stop offset="1" stop-color="#0E0E10" stop-opacity="0.85"/>
-    </linearGradient>
-
-    <linearGradient id="streak" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#B8322A" stop-opacity="0"/>
-      <stop offset="0.25" stop-color="#B8322A" stop-opacity="0.9"/>
-      <stop offset="0.8" stop-color="#B8322A" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#B8322A" stop-opacity="0"/>
     </linearGradient>
 
     <filter id="grain" x="0" y="0" width="100%" height="100%">
@@ -37,8 +30,8 @@
     <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
 
     <style>
-      .sans  { font-family: Futura, 'Century Gothic', 'Avenir Next', Montserrat, Helvetica, Arial, sans-serif; }
-      .mono  { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .sans { font-family: Futura, 'Century Gothic', 'Avenir Next', Montserrat, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
       .f  { opacity: 0; animation: fade 1.6s ease-out forwards; }
       .d1 { animation-delay: .1s; }  .d2 { animation-delay: .4s; }
       .d3 { animation-delay: .7s; }  .d4 { animation-delay: 1s; }
@@ -57,29 +50,29 @@
     <!-- Landscape -->
     <g mask="url(#land)">
       <g class="f d1">
-        <circle cx="1050" cy="150" r="150" fill="url(#sunGlow)"/>
-        <circle cx="1050" cy="150" r="62" fill="#B8322A"/>
+        <circle cx="1090" cy="150" r="150" fill="url(#sunGlow)"/>
+        <circle cx="1090" cy="150" r="62" fill="#B8322A"/>
       </g>
 
       <g class="f d5" fill="none" stroke="#6B6660" stroke-width="1.6" stroke-linecap="round">
-        <path d="M952,96 q6,-6 12,0 q6,-6 12,0"/>
-        <path d="M982,78 q4,-4 8,0 q4,-4 8,0"/>
-        <path d="M932,118 q3,-3 6,0 q3,-3 6,0"/>
+        <path d="M992,96 q6,-6 12,0 q6,-6 12,0"/>
+        <path d="M1022,78 q4,-4 8,0 q4,-4 8,0"/>
+        <path d="M972,118 q3,-3 6,0 q3,-3 6,0"/>
       </g>
 
       <path class="f d2" fill="#28272C"
-        d="M560 300 C 660 270 740 205 830 230 S 960 140 1050 200 S 1190 160 1280 205 V400 H560 Z"/>
+        d="M560 300 C 660 270 740 205 830 230 S 960 140 1090 200 S 1190 160 1280 205 V400 H560 Z"/>
       <rect class="f d2" x="560" y="190" width="720" height="210" fill="url(#haze)"/>
 
       <g class="f d3">
-        <ellipse class="drift" cx="930" cy="262" rx="260" ry="16" fill="#F2EEE6" opacity="0.05" filter="url(#soft)"/>
+        <ellipse class="drift" cx="960" cy="262" rx="260" ry="16" fill="#F2EEE6" opacity="0.05" filter="url(#soft)"/>
       </g>
 
       <path class="f d3" fill="#1B1B1E"
         d="M620 345 C 720 305 800 285 890 310 S 1030 255 1120 295 S 1230 275 1280 300 V400 H620 Z"/>
 
       <g class="f d4">
-        <ellipse class="drift2" cx="1010" cy="330" rx="300" ry="14" fill="#F2EEE6" opacity="0.045" filter="url(#soft)"/>
+        <ellipse class="drift2" cx="1030" cy="330" rx="300" ry="14" fill="#F2EEE6" opacity="0.045" filter="url(#soft)"/>
       </g>
 
       <path class="f d4" fill="#111113"
@@ -89,49 +82,83 @@
     <!-- Grain -->
     <rect width="1280" height="400" filter="url(#grain)" opacity="0.06"/>
 
-    <!-- Top label -->
-    <text class="mono f d1" x="80" y="92" font-size="13" letter-spacing="5" fill="#A8A29A">FULL STACK  /  CREATOR</text>
+    <!-- Top-left ornament -->
+    <g class="f d1" fill="#E8E7E4">
+      <path d="M67,50 L73,46 L73,94 L67,98 Z"/>
+      <path d="M58,66 L82,62 L82,66 L58,70 Z"/>
+      <path d="M70,31 L71.5,36.5 L77,38 L71.5,39.5 L70,45 L68.5,39.5 L63,38 L68.5,36.5 Z"/>
+      <path d="M70,99 L71.5,104.5 L77,106 L71.5,107.5 L70,113 L68.5,107.5 L63,106 L68.5,104.5 Z"/>
+    </g>
 
-    <!-- Wordmark: italic blade-cut SHAOLINE -->
-    <g class="f d2" transform="translate(0 220) skewX(-14) translate(0 -220)">
-      <g fill="#F2EEE6" fill-rule="evenodd">
-        <!-- S -->
-        <path d="M90,110 L136,110 L129,130 L100,130 L100,155 L126,155 L136,165 L136,210 L126,220 L80,220 L87,200 L116,200 L116,175 L90,175 L80,165 L80,120 Z"/>
-        <!-- H -->
-        <path d="M146,118 L166,110 L166,155 L182,155 L182,118 L202,110 L202,212 L182,220 L182,175 L166,175 L166,212 L146,220 Z"/>
-        <!-- A -->
-        <path d="M212,220 L212,140 L238,110 L268,110 L268,220 L248,220 L248,182 L232,182 L232,220 Z M232,162 L248,162 L248,130 L242,130 L232,142 Z"/>
-        <!-- O -->
-        <path d="M292,110 L334,110 L334,206 L320,220 L278,220 L278,124 Z M298,130 L314,130 L314,200 L298,200 Z"/>
-        <!-- L -->
-        <path d="M344,118 L364,110 L364,200 L400,200 L392,220 L344,220 Z"/>
-        <!-- I -->
-        <path d="M410,118 L430,110 L430,212 L410,220 Z"/>
-        <!-- N -->
-        <path d="M440,118 L460,110 L476,160 L476,118 L496,110 L496,212 L476,220 L460,170 L460,212 L440,220 Z"/>
-        <!-- E -->
-        <path d="M516,110 L562,110 L555,130 L526,130 L526,155 L550,155 L544,175 L526,175 L526,200 L562,200 L555,220 L506,220 L506,120 Z"/>
-      </g>
+    <!-- Wordmark: blackletter SHAOLINEX, centered -->
+    <g class="f d2" fill="#F2EEE6">
+      <!-- S -->
+      <path d="M348,109 L370,95 L400,101 L400,113 L370,107 L362,115 Z"/>
+      <path d="M340,111 L356,105 L356,157 L340,163 Z"/>
+      <path d="M340,155 L356,151 L400,181 L384,187 Z"/>
+      <path d="M384,183 L400,177 L400,233 L384,239 Z"/>
+      <path d="M392,231 L370,245 L340,239 L340,227 L370,233 L378,225 Z"/>
 
-      <!-- Katana slice through the letters -->
-      <path d="M60,194 L620,146 L620,148 L60,199 Z" fill="#101012"/>
-      <path d="M60,200 L620,149" stroke="url(#streak)" stroke-width="1.2"/>
+      <!-- H -->
+      <path d="M414,103 L430,95 L430,237 L414,245 Z"/>
+      <path d="M458,103 L474,95 L474,237 L458,245 Z"/>
+      <path d="M430,168 L458,160 L458,172 L430,180 Z"/>
+      <rect x="421" y="76" width="2" height="24"/>
+      <path d="M422,65 L423.5,70.5 L429,72 L423.5,73.5 L422,79 L420.5,73.5 L415,72 L420.5,70.5 Z"/>
+
+      <!-- A -->
+      <path d="M488,137 L504,129 L504,237 L488,245 Z"/>
+      <path d="M532,103 L548,95 L548,237 L532,245 Z"/>
+      <path d="M488,131 L540,95 L548,95 L548,109 L496,145 L488,145 Z"/>
+      <path d="M504,178 L532,170 L532,182 L504,190 Z"/>
+
+      <!-- O -->
+      <path d="M562,115 L592,95 L622,115 L606,123 L592,113 L578,123 Z"/>
+      <path d="M562,115 L578,115 L578,225 L562,225 Z"/>
+      <path d="M606,115 L622,115 L622,225 L606,225 Z"/>
+      <path d="M562,225 L578,217 L592,227 L606,217 L622,225 L592,245 Z"/>
+      <rect x="591" y="245" width="2" height="16"/>
+      <path d="M592,260 L593.3,264.7 L598,266 L593.3,267.3 L592,272 L590.7,267.3 L586,266 L590.7,264.7 Z"/>
+
+      <!-- L -->
+      <path d="M636,103 L652,95 L652,237 L636,245 Z"/>
+      <path d="M652,229 L690,219 L690,233 L652,243 Z"/>
+
+      <!-- I -->
+      <path d="M704,103 L720,95 L720,237 L704,245 Z"/>
+      <path d="M712,58 L714.6,67.4 L724,70 L714.6,72.6 L712,82 L709.4,72.6 L700,70 L709.4,67.4 Z"/>
+
+      <!-- N -->
+      <path d="M734,103 L750,95 L750,237 L734,245 Z"/>
+      <path d="M778,125 L794,117 L794,237 L778,245 Z"/>
+      <path d="M750,95 L764,95 L794,117 L778,125 L750,109 Z"/>
+      <rect x="785" y="245" width="2" height="18"/>
+      <path d="M786,261 L787.5,266.5 L793,268 L787.5,269.5 L786,275 L784.5,269.5 L779,268 L784.5,266.5 Z"/>
+
+      <!-- E -->
+      <path d="M808,115 L824,115 L824,225 L808,225 Z"/>
+      <path d="M808,115 L838,95 L864,105 L864,117 L838,109 L824,123 Z"/>
+      <path d="M824,167 L856,161 L856,173 L824,179 Z"/>
+      <path d="M808,225 L824,217 L838,231 L864,223 L864,235 L838,245 Z"/>
+
+      <!-- X -->
+      <path d="M878,103 L894,95 L940,237 L924,245 Z"/>
+      <path d="M932,95 L940,101 L886,245 L878,239 Z"/>
+      <rect x="885" y="76" width="2" height="22"/>
+      <path d="M886,65 L887.5,70.5 L893,72 L887.5,73.5 L886,79 L884.5,73.5 L879,72 L884.5,70.5 Z"/>
     </g>
 
     <!-- Subtitle lockup: SOFTWARE ——— ENGINEER -->
     <g class="f d3">
-      <text class="sans" x="80" y="262" font-size="14" letter-spacing="7" fill="#E8E7E4">SOFTWARE</text>
-      <line x1="222" y1="257" x2="420" y2="257" stroke="#777674" stroke-width="1"/>
-      <path d="M321,253 L325,257 L321,261 L317,257 Z" fill="#B8322A"/>
-      <text class="sans" x="569" y="262" font-size="14" letter-spacing="7" text-anchor="end" fill="#E8E7E4">ENGINEER</text>
+      <text class="sans" x="340" y="304" font-size="15" letter-spacing="8" fill="#E8E7E4">SOFTWARE</text>
+      <line x1="486" y1="299" x2="794" y2="299" stroke="#777674" stroke-width="1"/>
+      <path d="M640,295 L644,299 L640,303 L636,299 Z" fill="#B8322A"/>
+      <text class="sans" x="948" y="304" font-size="15" letter-spacing="8" text-anchor="end" fill="#E8E7E4">ENGINEER</text>
     </g>
 
-    <!-- Tagline -->
-    <text class="mono f d4" x="80" y="316" font-size="14" letter-spacing="0.5" fill="#A8A29A">Discord bots  ·  Web applications  ·  Backends  ·  Developer tools</text>
-
-    <!-- Bottom meta -->
-    <text class="mono f d5" x="80" y="362" font-size="11" letter-spacing="3" fill="#6B6660">JAVA  ·  LINUX  ·  DISCORD.JS  ·  REACT</text>
-    <text class="mono f d5" x="1200" y="362" font-size="11" letter-spacing="3" text-anchor="end" fill="#8A857E">YOUTUBE.COM/@SHAOLINE4X</text>
+    <!-- Bottom corners -->
+    <text class="mono f d5" x="80" y="366" font-size="11" letter-spacing="3" fill="#6B6660">JAVA  ·  LINUX  ·  DISCORD.JS  ·  REACT</text>
+    <text class="mono f d5" x="1200" y="366" font-size="11" letter-spacing="3" text-anchor="end" fill="#8A857E">YOUTUBE.COM/@SHAOLINE4X</text>
   </g>
 
   <rect x="0.5" y="0.5" width="1279" height="399" rx="18" fill="none" stroke="#2A2A2E"/>
